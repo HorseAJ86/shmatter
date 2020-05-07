@@ -1,0 +1,27 @@
+{
+  "name": "shmatter",
+  "version": "1.0.0",
+  "description": "Parse bash comments as if they were YAML frontmatter, almost.",
+  "main": "shmatter.js",
+  "scripts": {
+    "test": "node shmatter.js --test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://git.coolaj86.com/coolaj86/shmatter.js.git"
+  },
+  "keywords": [
+    "bash",
+    "sh",
+    "shell",
+    "yaml",
+    "yml",
+    "frontmatter",
+    "markdown"
+  ],
+  "author": "AJ ONeal <coolaj86@gmail.com> (https://coolaj86.com/)",
+  "license": "MPL-2.0",
+  "dependencies": {
+    "marked": "^1.0.0"
+  }
+}
