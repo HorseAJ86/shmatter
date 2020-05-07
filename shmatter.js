@@ -64,6 +64,7 @@ function parseYamlish(txt) {
     return cfg;
 }
 
+module.exports = parseYamlish;
 module.exports.parse = parseYamlish;
 
 if (require.main === module) {

@@ -1,6 +1,6 @@
 {
   "name": "shmatter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Parse bash comments as if they were YAML frontmatter, almost.",
   "main": "shmatter.js",
   "scripts": {
